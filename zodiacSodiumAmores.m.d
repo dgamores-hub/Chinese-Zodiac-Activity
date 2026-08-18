@@ -116,10 +116,6 @@ Enter your birth year: 1900
 Your Chinese Zodiac Sign is : Rat (鼠 / Shǔ)
 ```
 
-## Output Screenshot
-
-
-
 ## Notes for Submission
 
 - Save the Python file as `zodiacSectionLN.py`.
