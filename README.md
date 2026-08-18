@@ -4,8 +4,8 @@ This repository contains my coding activity for implementing a selection structu
 
 ## Files
 
-[zodiacSectionLN.py](zodiacSectionLN.py) — the Python source code
+[zodiacSectionLN.py](zodiacSodiumAmores.py) — the Python source code
 
-[zodiacSectionLN.md](zodiacSectionLN.md) — full documentation including requirements, code, explanation, and output screenshot
+[zodiacSectionLN.md](zodiacSodiumAmores.m.d) — full documentation including requirements, code, explanation, and output screenshot
 
 [output.jpg](output.jpg) — screenshot of the program's output
